@@ -50,16 +50,6 @@ The following models were compared based on **accuracy**, **ROC AUC**, **executi
 3. **Boosting Methods**: Consider algorithms like XGBoost or LightGBM.
 4. **Evaluation Metrics**: Use precision-recall curves over accuracy for imbalanced data.
 
-## Project Structure
-
-PDC_Machine_Learning_Project/
-│
-├── data/ # Data files and CSVs
-├── models/ # Python scripts for model training
-├── results/ # Model outputs and evaluation metrics
-├── images/ # Generated visualizations (e.g., ROC, confusion matrix)
-├── README.md # Project overview
-└── requirements.txt # Python dependencies
 
 
 
